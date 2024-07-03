@@ -1,0 +1,43 @@
+Database Testing
+------------------------------------------------------
+The password for all accounts is "sassword".
+
+Test 1:
+Goal: Login to user account for AOrtiz155
+Result: PASS
+
+Test 2:
+Goal: View Balance & Account Details for AOrtiz155
+Result: PASS
+
+Test 3:
+Goal: Deposit for AOrtiz155
+Result: PASS
+
+Test 4:
+Goal: Withdrawal for AOrtiz155
+Result: PASS
+
+Test 5:
+Goal: Edit Account Details for AOrtiz155
+Result: PASS
+
+Test 6:
+Goal: Login to user account for JGonzalez41
+Result: PASS
+
+Test 7:
+Goal: View Balance & Account Details for JGonzalez41
+Result: PASS
+
+Test 8:
+Goal: Deposit for JGonzalez41
+Result: PASS
+
+Test 9:
+Goal: Withdrawal for JGonzalez41
+Result: PASS
+
+Test 10:
+Goal: Edit Account Details for JGonzalez41
+Result: PASS

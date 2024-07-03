@@ -1,0 +1,43 @@
+UnitTest Testing
+------------------------------------------------------
+Test 1 Result:
+    Ran 4 tests in 0.001s
+
+    OK
+
+
+Changed From:
+    updated_balance = current_balance + deposit_amount
+To:
+    # False Statement
+    updated_balance = current_balance * deposit_amount
+
+
+Test 2 Result:
+    4166.02685391461 != -1058285.33493479
+
+    Expected :-1058285.33493479
+    Actual   :4166.02685391461
+
+    6045.341397067665 != 3279959.6566307577
+
+    Expected :3279959.6566307577
+    Actual   :6045.341397067665
+
+
+    Ran 4 tests in 0.003s
+
+    FAILED (failures=2)
+
+
+*Changed Back to Original*
+
+
+Tests 3 - 10 Results:
+    Ran 4 tests in 0.001s
+
+    OK
+
+
+Please Note: Each test generates random inputs, so
+test_bankify.py is testing a different scenario every time.
