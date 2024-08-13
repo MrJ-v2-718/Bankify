@@ -1,0 +1,83 @@
+# MrJ            |
+# Bankify        |
+# 7/17/2024      |
+# ---------------
+
+Database Testing
+------------------------------------------------------
+The password for all accounts is "sassword".
+
+Test 1:
+Goal: Login to user account for AOrtiz155
+Method: Manual Testing
+Result: PASS
+
+Test 2:
+Goal: View Balance & Account Details for AOrtiz155
+Method: Manual Testing
+Result: PASS
+
+Test 3:
+Goal: Deposit for AOrtiz155
+Method: Manual Testing
+Result: PASS
+
+Test 4:
+Goal: Withdrawal for AOrtiz155
+Method: Manual Testing
+Result: PASS
+
+Test 5:
+Goal: Edit Account Details for AOrtiz155
+Method: Manual Testing
+Result: PASS
+
+Test 6:
+Goal: Login to user account for JGonzalez41
+Method: Manual Testing
+Result: PASS
+
+Test 7:
+Goal: View Balance & Account Details for JGonzalez41
+Method: Manual Testing
+Result: PASS
+
+Test 8:
+Goal: Deposit for JGonzalez41
+Method: Manual Testing
+Result: PASS
+
+Test 9:
+Goal: Withdrawal for JGonzalez41
+Method: Manual Testing
+Result: PASS
+
+Test 10:
+Goal: Edit Account Details for JGonzalez41
+Method: Manual Testing
+Result: PASS
+
+Test 11:
+Goal: Login to user account for AGarcia67
+Method: Manual Testing
+Result: PASS
+
+Test 12:
+Goal: View Balance & Account Details for AGarcia67
+Method: Manual Testing
+Result: PASS
+
+Test 13:
+Goal: Deposit for AGarcia67
+Method: Manual Testing
+Result: PASS
+
+Test 14:
+Goal: Withdrawal for AGarcia67
+Method: Manual Testing
+Result: PASS
+
+Test 15:
+Goal: Edit Account Details for AGarcia67
+Method: Manual Testing
+Result: PASS
