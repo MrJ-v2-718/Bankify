@@ -1,1 +1,0 @@
-This Directory Is Reserved For Accounts Only
