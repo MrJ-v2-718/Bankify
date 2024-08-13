@@ -1,0 +1,4 @@
+Transaction Type : Deposit
+Transaction Amount : $10000.00
+Transaction Time: 2024-07-17 11:57:04
+

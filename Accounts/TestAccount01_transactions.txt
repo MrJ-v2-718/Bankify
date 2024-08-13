@@ -1,0 +1,24 @@
+Transaction Type : Deposit
+Transaction Amount : $250.00
+Transaction Time: 2024-07-16 15:45:27
+
+Transaction Type : Deposit
+Transaction Amount : $250.00
+Transaction Time: 2024-07-16 15:45:44
+
+Transaction Type : Withdrawal
+Transaction Amount : $100.00
+Transaction Time: 2024-07-16 15:46:12
+
+Transaction Type : Withdrawal
+Transaction Amount : $200.00
+Transaction Time: 2024-07-16 15:46:59
+
+Transaction Type : Deposit
+Transaction Amount : $10000.00
+Transaction Time: 2024-07-16 16:06:58
+
+Transaction Type : Withdrawal
+Transaction Amount : $500.00
+Transaction Time: 2024-07-16 16:07:26
+
